@@ -5,6 +5,9 @@ Welcome to example_pkg's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   API/arithmetic
+..
+
 This is the documentation for my `example_pkg`, illustrating the
 structure and implementation of a python package. This project was created
 both to provide an experimental testbed for learning about the various
@@ -31,5 +34,3 @@ Indices and tables
 Arithmetic Module
 =================
 
-.. automodule:: example_pkg.arithmetic
-    :members:
