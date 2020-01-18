@@ -58,3 +58,36 @@ Usage
 ..
 
    0.5
+
+Support
+-------
+
+If you have any issues with this project, please submit said issue to the
+GitHub issue tracker.
+
+Roadmap
+-------
+
+Once I get this project's documentation and testing facilities to a
+sufficiently advanced stage, this project will probably only be updated as I
+become aware of advances in python project management. If you have any
+suggestions of how things could be done better, please let me know.
+
+Contributing
+------------
+
+This is a rather trivial project in terms of actual capabilities, so I'd be
+somewhat surprised if somebody wanted to contribute to this project. If you
+want to contribute to this project, please get in contact with me or simply
+submit a pull request on GitHub.
+
+Authors and Acknowledgement
+---------------------------
+
+This project was developed by me, Randall Summers.
+
+License
+-------
+
+This project is licensed under the MIT license. See the LICENSE file for more
+details.
